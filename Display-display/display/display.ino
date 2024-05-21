@@ -6,7 +6,7 @@ int com = 10;
 int bak_2 = 0;
 bool flag = 1;
 String str;
-//github
+//githubккккк
 Adafruit_SSD1306 display(128, 32, &Wire, 4);  // указываем размер экрана в пикселях
 
 void setup() {
